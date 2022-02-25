@@ -1,5 +1,10 @@
 from src.Sopa_de_Letras import *
 
+def test_crear_matriz():
+        assert crear_matriz(3) == [[0,0,0],
+                                   [0,0,0],
+                                   [0,0,0],]
+
 def test_posible_AR_AB():
         matriz0 =[[0,0,0],
                   [0,0,0],
