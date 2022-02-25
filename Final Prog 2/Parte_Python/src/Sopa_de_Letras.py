@@ -516,6 +516,7 @@ def palabra_en_casilla(matriz,palabra,dimension,i,j):
 # mostrar_sopa: Matrix -> None
 # Muestra la sopa de letras en pantalla
 def mostrar_sopa(sopa):
+    print("Sopa de letras")
     for linea in sopa:
         res = "".join(linea)
         print(res)
