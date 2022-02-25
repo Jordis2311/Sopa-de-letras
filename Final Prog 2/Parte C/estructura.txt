@@ -1,0 +1,16 @@
+DIMENSION
+10
+PALABRAS
+comporta
+preferible
+explosion
+salvavida
+dilatable
+intimidad
+ender
+alficoz
+estiron
+respede
+olfateo
+COMPLEJIDAD
+3
